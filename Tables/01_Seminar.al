@@ -3,6 +3,8 @@ table 123456701 "CSD Seminar"
 // Chapter 5 - Lab 2-2
 {
     Caption='Seminar';
+    LookupPageId = "CSD Seminar List";
+    DrillDownPageId = "CSD Seminar List";
     
     fields
     {

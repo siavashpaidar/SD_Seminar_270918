@@ -4,7 +4,7 @@ page 123456702 "CSD Seminar List"
     SourceTable = "CSD Seminar";
     Caption = 'Seminar List';
     Editable = false;
-    CardPageId = 123456702;
+    CardPageId = 123456701;
     UsageCategory = Lists;
 
     layout
